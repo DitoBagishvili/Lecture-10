@@ -18,3 +18,16 @@
         display: inline-block;
     }
 }
+@media (max-width: 800px ) {
+    .div1 h2 {
+        font-size: 35px;
+    }
+    .wrapper2 {
+        display: flex;
+        flex-direction: column;
+    }
+    .div2 {
+        margin: auto;
+        margin-bottom: 20px;
+    }
+}
